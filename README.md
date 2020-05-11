@@ -1,5 +1,6 @@
 # Fake-Tweets-Prediction
-   
+   ![121031031926-twitter-nyse-hoax-story-top](https://user-images.githubusercontent.com/39211262/81529079-acf1a700-937b-11ea-99de-fff722dcc150.jpg)
+
 ### Introduction :
    Over the years, Twitter has grown to become an important medium of communication. Dubbed as possibly the most impactful type of journalism in a raw form, when combined with the ubiquitousness of smartphones, emergency news can be announced and observed in real-time. As a result, many agencies (e.x. disaster relief organizations and news agencies) are eager to programmatically monitor Twitter. However, this comes with its own complications. Distinguishing whether a person’s words is announcing big stormz, or referring to UK Grime artist Stormzy as big Stormz could raise some challenges (a rather radical example to say the least).
      
